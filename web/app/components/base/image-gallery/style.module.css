@@ -8,6 +8,10 @@
   cursor: pointer;
 }
 
+.markdown-img-wrapper .item {
+  max-height: 700px;
+}
+
 .item:nth-child(3n) {
   margin-right: 0;
 }
