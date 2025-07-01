@@ -1,7 +1,6 @@
 .item {
-  max-height: 600px;
-  margin-right: 8px;
-  margin-bottom: 8px;
+  max-height: 640px;
+  margin: auto;
   object-fit: contain;
   object-position: center;
   border-radius: 8px;
